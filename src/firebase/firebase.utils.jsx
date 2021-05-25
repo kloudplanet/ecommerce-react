@@ -3,13 +3,13 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 const config = {
-  apiKey: 'AIzaSyCRcGwJfG7u3SP8rQ-G2zSrVUhm9Y-WKZ0',
-  authDomain: 'ecommerce-react-352d8.firebaseapp.com',
-  projectId: 'ecommerce-react-352d8',
-  storageBucket: 'ecommerce-react-352d8.appspot.com',
-  messagingSenderId: '498703188319',
-  appId: '1:498703188319:web:2e44918a918f0541a2b6ea',
-  measurementId: 'G-W6X3DWSGJ2'
+  apiKey: 'AIzaSyDPwEzamdqzMfurbweuxD9bbC4fyOs4rBc',
+  authDomain: 'ecommerce-react-cc764.firebaseapp.com',
+  projectId: 'ecommerce-react-cc764',
+  storageBucket: 'ecommerce-react-cc764.appspot.com',
+  messagingSenderId: '1065185293618',
+  appId: '1:1065185293618:web:8291378bb2be5e2f11132b',
+  measurementId: 'G-H44KF11YGK'
 }
 
 firebase.initializeApp(config)
